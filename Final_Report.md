@@ -17,7 +17,7 @@ Before the dataset was loaded onto MS SQL, we used Excel to perform a few basic 
 - Created a "ride_length" column by subtracting the column "started_at" from the column "ended_at" and formatted the column as HH:MM:SS
 - Created a "day_of_week" column and returned the day of the week for each ride using the "WEEKDAY" function and formatted as General
 
-The dataset was then loaded onto Microsoft SQL Server Management Studio and cleaned via SQL - refer to the separate .SQL [file](https://github.com/seriouslyjames/Cyclistic-Bikes-Case-Study/blob/main/bikes_case1_code.sql) for the code used in this cleaning process.
+The dataset was then loaded onto Microsoft SQL Server Management Studio and cleaned via SQL - refer to the separate .SQL [file](https://github.com/seriouslyjames/Cyclistic-Bikes-Case-Study/blob/main/bikes_case1_code.sql) for the code used in this cleaning process and additional comments/explanations.
 
 ## 4. Analysis
 
