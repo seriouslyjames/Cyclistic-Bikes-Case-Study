@@ -69,9 +69,11 @@ Given members are more frequent users of this service, their preference for clas
 
 In line with the original business task - identifying "how do annual members and casual riders use Cyclistic bikes differently?", these are three recommendations on how we may convert casual riders into annual members.
 
-- 
+- Given the concentration of casual bike trips originating along the shoreline, we should focus advertising spend along the shore. Utilise local ad space to encourage users to explore and take trips further into the city away from the shore and reminding customers that Cyclistic is not just for tourists and leisure activity.
 
+- As the majority of casual users are taking their trips on the weekend - Cyclistic can increase engagement with users on weekdays via emails/notifications, letting them know they can use the service to grab lunch or run errands.
 
+- As members overwhelmingly choose classic bikes over electric bikes, Cyclistic can encourage casual users to switch from electric bikes to classic bikes as part of a health-oriented campaign - turning their trips into a part of their fitness regime.
 
 
 
